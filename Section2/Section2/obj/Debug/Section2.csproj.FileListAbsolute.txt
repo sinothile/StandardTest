@@ -1,0 +1,7 @@
+C:\Users\sinothilem\source\repos\Section2\Section2\bin\Debug\Section2.exe.config
+C:\Users\sinothilem\source\repos\Section2\Section2\bin\Debug\Section2.exe
+C:\Users\sinothilem\source\repos\Section2\Section2\bin\Debug\Section2.pdb
+C:\Users\sinothilem\source\repos\Section2\Section2\obj\Debug\Section2.csprojAssemblyReference.cache
+C:\Users\sinothilem\source\repos\Section2\Section2\obj\Debug\Section2.csproj.CoreCompileInputs.cache
+C:\Users\sinothilem\source\repos\Section2\Section2\obj\Debug\Section2.exe
+C:\Users\sinothilem\source\repos\Section2\Section2\obj\Debug\Section2.pdb
